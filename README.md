@@ -179,9 +179,9 @@ I'm interested in:
 ## 📫 Let's Connect
 
 - **Email:** kiranprasad897@gmail.com
-- **LinkedIn:** [linkedin.com/in/kiranprasad](https://linkedin.com/in/kiranprasad)
+- **LinkedIn:** [linkedin.com/in/kiranprasad](https://linkedin.com/in/kiranprasadr26)
 - **Location:** Bengaluru, Karnataka, India
-- **Phone:** +91-9164489959
+
 
 ---
 
