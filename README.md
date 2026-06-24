@@ -106,7 +106,7 @@ Complete monitoring and alerting solution for Kubernetes clusters and applicatio
 - Docker compose setup
 - Documentation and troubleshooting
 
-<--
+<!--
 
 ## 📊 GitHub Statistics
 
