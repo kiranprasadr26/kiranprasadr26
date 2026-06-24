@@ -1,6 +1,6 @@
 # Hi, I'm Kiranprasad R 👋
 
-**DevOps Engineer | Cloud Infrastructure Specialist | Kubernetes Enthusiast**
+**DevOps Engineer | Implementation Engineer | Kubernetes Enthusiast**
 
 Welcome to my GitHub! I build scalable, reliable cloud infrastructure and automate everything.
 
@@ -185,18 +185,13 @@ I'm interested in:
 
 ---
 
-## 📝 Latest Articles
+<!-- ## 📝 Latest Articles
 
-<!-- You can add blog links here once you start writing -->
+ You can add blog links here once you start writing 
 - 🔗 [Kubernetes Best Practices](#)
 - 🔗 [CI/CD Pipeline Setup Guide](#)
-- 🔗 [Infrastructure as Code Patterns](#)
+- 🔗 [Infrastructure as Code Patterns](#) -->
 
----
-
-## ⭐ If you find my projects useful, consider giving them a star!
-
----
 
 **Last updated:** June 2026
 
