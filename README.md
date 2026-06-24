@@ -179,7 +179,7 @@ I'm interested in:
 ## 📫 Let's Connect
 
 - **Email:** kiranprasad897@gmail.com
-- **LinkedIn:** [linkedin.com/in/kiranprasad](https://linkedin.com/in/kiranprasadr26)
+- **LinkedIn:** [linkedin.com/in/kiranprasadr26](https://linkedin.com/in/kiranprasadr26)
 - **Location:** Bengaluru, Karnataka, India
 
 
