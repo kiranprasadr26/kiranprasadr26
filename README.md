@@ -106,7 +106,7 @@ Complete monitoring and alerting solution for Kubernetes clusters and applicatio
 - Docker compose setup
 - Documentation and troubleshooting
 
----
+<--
 
 ## 📊 GitHub Statistics
 
@@ -114,7 +114,7 @@ Complete monitoring and alerting solution for Kubernetes clusters and applicatio
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranprasad&layout=compact&theme=dark)
 
----
+-->
 
 ## 🎯 What I'm Currently Working On
 
